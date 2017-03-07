@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/cat and Zombie.unity
+  isLoaded: 1
+  isActive: 1
